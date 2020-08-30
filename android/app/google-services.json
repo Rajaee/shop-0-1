@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271272832580",
+    "firebase_url": "https://shop01-4d4af.firebaseio.com",
+    "project_id": "shop01-4d4af",
+    "storage_bucket": "shop01-4d4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271272832580:android:47022b637c32f111c4d611",
+        "android_client_info": {
+          "package_name": "com.zihinler.shop_0_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271272832580-24t2v77gb17g12uj65hcc35tslvaoegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYxg8Qhw5PHfJOlriyWmvOCyO9CAppWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271272832580-24t2v77gb17g12uj65hcc35tslvaoegm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
